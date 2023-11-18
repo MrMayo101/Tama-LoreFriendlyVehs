@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>bjxlr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            131
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            138
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+		<Item>
+          <indices content="char_array">
+            41
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+		<Item>
+          <indices content="char_array">
+            42
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+		<Item>
+          <indices content="char_array">
+            55
+            12
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>3511_bjxlr_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="0"/>
+    </Item>
+	</variationData>
+</CVehicleModelInfoVariation>

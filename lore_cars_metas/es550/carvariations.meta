@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>  
+    <Item>
+      <modelName>es550</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            70
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            38
+            38
+            38
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            8
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            39
+            39
+            34
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            54
+            54
+            54
+            111 
+			8
+			8
+          </indices>
+          <liveries/>
+        </Item> 		
+      </colors>
+      <kits>
+        <Item>1980_es550_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="57" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

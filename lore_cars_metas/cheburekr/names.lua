@@ -1,0 +1,27 @@
+function AddTextEntry(key, value)
+Citizen.InvokeNative(GetHashKey("ADD_TEXT_ENTRY"), key, value)
+end
+
+Citizen.CreateThread(function()
+AddTextEntry("CHEBUREKR", "Cheburek Rally")
+AddTextEntry("CHEB_FOGGERS_A", "Rally Foglights")
+AddTextEntry("CHEB_FLAPS_A", "Mudflaps")
+AddTextEntry("CHEB_SUNSTRIP_A", "Primary Sunstrip")
+AddTextEntry("CHEB_SUNSTRIP_B", "Secondary Sunstrip")
+AddTextEntry("CHEB_LT", "Lithuania Sunstrip")
+AddTextEntry("CHEB_EE", "Estonia Sunstrip")
+AddTextEntry("CHEB_LV", "Latvia Sunstrip")
+AddTextEntry("CHEB_UKR", "Ukraine Sunstrip")
+AddTextEntry("CHEB_RU", "Russia Sunstrip")
+AddTextEntry("CHEB_HU", "Hungary Sunstrip")
+AddTextEntry("CHEB_PL", "Poland Sunstrip")
+AddTextEntry("CHEB_RO", "Romania Sunstrip")
+
+AddTextEntry("CHEBR_LIV1", "Air Herler")
+AddTextEntry("CHEBR_LIV2", "Coolhand")
+AddTextEntry("CHEBR_LIV3", "Demonoil")
+AddTextEntry("CHEBR_LIV4", "Retro Racer")
+AddTextEntry("CHEBR_LIV5", "Nogo Vodka")
+AddTextEntry("CHEBR_LIV6", "Noob Speedshop")
+
+end)

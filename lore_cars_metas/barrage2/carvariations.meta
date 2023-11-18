@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>barrage2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            52
+            52
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            133
+            133
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            31
+            31
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38
+            38
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            56
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            66
+            66
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            99
+            99
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            103
+            103
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            42
+            42
+            0
+            156
+            8
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>996_barrage2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

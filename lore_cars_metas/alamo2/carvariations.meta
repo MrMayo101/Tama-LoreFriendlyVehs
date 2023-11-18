@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData> 
+        <Item>
+            <modelName>alamo2</modelName>
+            <colors>
+                <Item>
+                    <indices content="char_array">
+            94
+            13
+            95
+            156
+            94
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            1
+            1
+            2
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            2
+            2
+            2
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            6
+            6
+            111
+            156
+            6
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            5
+            13
+            5
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            112
+            112
+            111
+            156
+            112
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            116
+            116
+            2
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            62
+            62
+            74
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            33
+            12
+            33
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            31
+            31
+            4
+            156
+            31
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            61
+            13
+            2
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+                <Item>
+                    <indices content="char_array">
+            103
+            103
+            105
+            156
+            12
+                    </indices>
+                    <liveries />
+                </Item>
+            </colors>
+            <kits>
+                <Item>0_suv_modkit</Item>
+            </kits>
+            <windowsWithExposedEdges/>
+            <plateProbabilities>
+                <Probabilities>
+                    <Item>
+                        <Name>Standard White</Name>
+                        <Value value="80"/>
+                    </Item>
+                    <Item>
+                        <Name>White Plate 2</Name>
+                        <Value value="20"/>
+                    </Item>
+                </Probabilities>
+            </plateProbabilities>
+            <lightSettings value="0"/>
+            <sirenSettings value="0"/>
+        </Item>
+	</variationData>
+</CVehicleModelInfoVariation>

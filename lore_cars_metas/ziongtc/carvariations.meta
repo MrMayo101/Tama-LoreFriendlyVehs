@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>ziongtc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            0
+			111
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            8
+			36
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            63
+            0
+			62
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            91
+			111
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            30
+            0
+			28
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            89
+            89
+            0
+			89
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            92
+            112
+			92
+			111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>608_ziongtc_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="250" />
+      <sirenSettings value="0" />
+    </Item>  
+  </variationData>
+</CVehicleModelInfoVariation>
